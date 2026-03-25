@@ -4,3 +4,5 @@ __pycache__/
 .DS_Store
 frames/
 sample.mp4
+face_results/
+face_crops/
